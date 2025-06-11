@@ -1,0 +1,13 @@
+# Ignore directories
+discourse_json/
+tds_pages_md/
+__pycache__/
+TDS-Project1-Data/
+
+# Ignore files
+.env
+preprocess.py
+data1.py
+data2.py
+*.pyc
+.DS_Store
