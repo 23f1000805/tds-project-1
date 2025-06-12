@@ -18,6 +18,8 @@ Backend (API): [http://0.0.0.0:8000/query](http://127.0.0.1:8000/query) (local)
 
 🗂️ Project Structure
 
+* Scraper.py: Scraping TDS Discourse posts with content from 1 Jan 2025 - 14 Apr 2025.
+* Crawler.py: Scrapping Course content with content for TDS Jan 2025 as on 15 Apr 2025.
 * preprocess.py: Preprocesses markdown and Discourse data into chunks and stores embeddings
 * app.py: FastAPI app that handles query requests
 * downloaded\_threads/: Contains Discourse JSON files
@@ -74,6 +76,6 @@ This project is licensed under the MIT License.
 🙋 Acknowledgments
 
 * IIT Madras Online BSc Program
-* TDS Course Instructors
+* TDS Course Project First
 * OpenAI API
 * Discourse API
