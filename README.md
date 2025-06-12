@@ -14,7 +14,7 @@ This project is part of the Tools in Data Science (TDS) course. It builds a sema
 🚀 Live Demo
 
 Frontend: [https://tds-project-1-snowy.vercel.app/query](https://tds-project-1-snowy.vercel.app/query)
-Backend (API): [http://0.0.0.0:8000/query](http://0.0.0.0:8000/query) (local)
+Backend (API): [http://0.0.0.0:8000/query](127.0.0.1:8000/query) (local)
 
 🗂️ Project Structure
 
